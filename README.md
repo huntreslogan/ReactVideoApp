@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# React Video App 
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+React app using the Youtube API to search and display youtube videos. 
 
 ### Getting Started
 
